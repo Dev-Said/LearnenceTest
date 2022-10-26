@@ -1,0 +1,4 @@
+cd public
+rm storage
+cd ..
+php artisan storage:link
